@@ -9,7 +9,7 @@ import java.awt.geom.Rectangle2D;
 public class FractalExplorer {
 
     private int displaySize;
-    private static JImageDisplay jImageDisplay;
+    private JImageDisplay jImageDisplay;
     private FractalGenerator fractalGenerator;
     private Rectangle2D.Double rectangle2D;
     private JButton jButton;
